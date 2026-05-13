@@ -1,0 +1,20 @@
+# Secrets
+.deepseek_*.json
+
+# Output
+output/
+
+# Web page source (user saved locally)
+网页源代码/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
